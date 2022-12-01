@@ -3,7 +3,6 @@ import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
-import java.util.function.BiConsumer;
 
 public class AOCFirstExcercise {
 		private static final String FILE_PATH = "/Users/nurdanemin/Desktop/input.txt";
